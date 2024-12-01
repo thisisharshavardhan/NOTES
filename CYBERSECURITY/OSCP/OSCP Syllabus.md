@@ -1,0 +1,22 @@
+The updated course includes 23 learning modules, which include:
+
+- Report Writing for Penetration Testers
+- Information Gathering
+- Vulnerability Scanning
+- Introduction to Web Applications
+- Common Web Application Attacks
+- SQL Injection Attacks
+- Client-Side Attacks
+- Location Public Exploits
+- Fixing Exploits
+- Antivirus Evasion
+- Password Attacks
+- Windows Privielge Escalation
+- Linux Privilege Escalation
+- Port Redirection and SSH Tunneling
+- Advanced Tunneling
+- The Metasploit Framework
+- Active Directory Introduction and Enumeration 
+- Attacking Active Directory Authentication
+- Lateral Movement in Active Directory 
+- Assembling the Pieces
