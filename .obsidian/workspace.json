@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7280a2ab7106a020",
+        "id": "10c249b6f29b5549",
         "type": "tabs",
         "children": [
           {
-            "id": "e401bb75b4bac9d6",
+            "id": "7b01682013918552",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -154,8 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e401bb75b4bac9d6",
+  "active": "7b01682013918552",
   "lastOpenFiles": [
+    "Android/Kotlin/Untitled.md",
+    "Android/Kotlin",
+    "Android",
     "README.md",
     "LINUX/You need to know about linux.md",
     "Development/You need to know for development.md",
@@ -180,8 +183,6 @@
     "Pasted image 20241127181806.png",
     "2024-11-27.md",
     "DSA/Data Structure",
-    "DSA/Resources",
-    "DSA/Topics",
     "Untitled.canvas"
   ]
 }
