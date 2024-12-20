@@ -11,10 +11,14 @@
             "id": "7b01682013918552",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "DSA/ALGORITHMS/Sorting Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorting Algorithms"
             }
           }
         ]
@@ -156,7 +160,16 @@
   },
   "active": "7b01682013918552",
   "lastOpenFiles": [
+    "insertionsort.c",
+    "selectionSort.c",
+    "DSA/ALGORITHMS/Searching algorithms.md",
+    "DSA/ALGORITHMS/Sorting Algorithms.md",
+    "BinarySearch.c",
+    "linearsearch 1.c",
+    "linearsearch.c",
     "Android/Kotlin/Untitled.md",
+    "DSA/Untitled",
+    "LINUX/Linux Internals Advanced insights/Managing Kernel Modules.md",
     "Android/Kotlin",
     "Android",
     "README.md",
@@ -168,21 +181,15 @@
     "LINUX/Linux device Driver LL cource",
     "DSA/Topics/Time Complexity.md",
     "CYBERSECURITY/OSCP",
-    "CYBERSECURITY",
     "DSA/Resources/topics in GFG 160Days.md",
-    "LINUX/Linux Internals Advanced insights/Managing Kernel Modules.md",
     "Pasted image 20241128112909.png",
     "Pasted image 20241128112809.png",
     "Pasted image 20241128111147.png",
     "Pasted image 20241128111101.png",
     "LINUX/Linux Internals Advanced insights/Understanding kernel generic interfaces.md",
     "Pasted image 20241128110147.png",
-    "LINUX/Linux Internals Advanced insights/Untitled",
-    "LINUX/Linux Internals Advanced insights",
-    "LINUX",
     "Pasted image 20241127181806.png",
     "2024-11-27.md",
-    "DSA/Data Structure",
     "Untitled.canvas"
   ]
 }
