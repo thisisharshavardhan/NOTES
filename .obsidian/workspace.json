@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/ALGORITHMS/Sorting Algorithms.md",
+                "file": "DSA/Topics/Time Complexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sorting Algorithms"
+              "title": "Time Complexity"
             }
           }
         ]
@@ -160,10 +160,11 @@
   },
   "active": "7b01682013918552",
   "lastOpenFiles": [
+    "DSA/ALGORITHMS/Sorting Algorithms.md",
+    "assets",
     "insertionsort.c",
     "selectionSort.c",
     "DSA/ALGORITHMS/Searching algorithms.md",
-    "DSA/ALGORITHMS/Sorting Algorithms.md",
     "BinarySearch.c",
     "linearsearch 1.c",
     "linearsearch.c",
@@ -178,17 +179,15 @@
     "Development",
     "LINUX/Linux device Driver LL cource/module commands.md",
     "CYBERSECURITY/OSCP/OSCP Syllabus.md",
-    "LINUX/Linux device Driver LL cource",
     "DSA/Topics/Time Complexity.md",
-    "CYBERSECURITY/OSCP",
     "DSA/Resources/topics in GFG 160Days.md",
-    "Pasted image 20241128112909.png",
-    "Pasted image 20241128112809.png",
-    "Pasted image 20241128111147.png",
-    "Pasted image 20241128111101.png",
+    "assets/Pasted image 20241128112909.png",
+    "assets/Pasted image 20241128112809.png",
+    "assets/Pasted image 20241128111147.png",
+    "assets/Pasted image 20241128111101.png",
     "LINUX/Linux Internals Advanced insights/Understanding kernel generic interfaces.md",
-    "Pasted image 20241128110147.png",
-    "Pasted image 20241127181806.png",
+    "assets/Pasted image 20241128110147.png",
+    "assets/Pasted image 20241127181806.png",
     "2024-11-27.md",
     "Untitled.canvas"
   ]
