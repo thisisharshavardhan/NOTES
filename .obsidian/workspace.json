@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "10c249b6f29b5549",
+        "id": "4f39ebad1caa59f5",
         "type": "tabs",
         "children": [
           {
-            "id": "7b01682013918552",
+            "id": "53e8f72ae8f544e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Topics/Time Complexity.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Time Complexity"
+              "title": "New tab"
             }
           }
         ]
@@ -158,36 +154,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b01682013918552",
+  "active": "878372f1d82367f6",
   "lastOpenFiles": [
-    "DSA/ALGORITHMS/Sorting Algorithms.md",
-    "assets",
-    "insertionsort.c",
-    "selectionSort.c",
-    "DSA/ALGORITHMS/Searching algorithms.md",
-    "BinarySearch.c",
-    "linearsearch 1.c",
-    "linearsearch.c",
-    "Android/Kotlin/Untitled.md",
-    "DSA/Untitled",
     "LINUX/Linux Internals Advanced insights/Managing Kernel Modules.md",
+    "LINUX/Linux device Driver LL cource/module commands.md",
+    "LINUX/Linux Internals Advanced insights/Understanding kernel generic interfaces.md",
+    "public/Pasted image 20241128111147.png",
+    "public/Pasted image 20241128112809.png",
+    "Android/Kotlin/Untitled.md",
+    "CYBERSECURITY/OSCP/OSCP Syllabus.md",
+    "Development/You need to know for development.md",
+    "DSA/ALGORITHMS/Searching algorithms.md",
+    "DSA/ALGORITHMS/Sorting Algorithms.md",
+    "README.md",
+    "DSA/Topics/Time Complexity.md",
+    "public",
+    "public/insertionsort.c",
+    "public/selectionSort.c",
+    "public/BinarySearch.c",
+    "public/linearsearch 1.c",
+    "public/linearsearch.c",
+    "DSA/Untitled",
     "Android/Kotlin",
     "Android",
-    "README.md",
     "LINUX/You need to know about linux.md",
-    "Development/You need to know for development.md",
     "Development",
-    "LINUX/Linux device Driver LL cource/module commands.md",
-    "CYBERSECURITY/OSCP/OSCP Syllabus.md",
-    "DSA/Topics/Time Complexity.md",
     "DSA/Resources/topics in GFG 160Days.md",
-    "assets/Pasted image 20241128112909.png",
-    "assets/Pasted image 20241128112809.png",
-    "assets/Pasted image 20241128111147.png",
-    "assets/Pasted image 20241128111101.png",
-    "LINUX/Linux Internals Advanced insights/Understanding kernel generic interfaces.md",
-    "assets/Pasted image 20241128110147.png",
-    "assets/Pasted image 20241127181806.png",
+    "public/Pasted image 20241128112909.png",
+    "public/Pasted image 20241128111101.png",
+    "public/Pasted image 20241128110147.png",
+    "public/Pasted image 20241127181806.png",
     "2024-11-27.md",
     "Untitled.canvas"
   ]
