@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f39ebad1caa59f5",
+        "id": "d2a8543a98763203",
         "type": "tabs",
         "children": [
           {
-            "id": "53e8f72ae8f544e8",
+            "id": "816a0aebaac50bf5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5
+    "width": 399.5
   },
   "right": {
     "id": "dc06e4f4d5650559",
@@ -156,6 +156,18 @@
   },
   "active": "878372f1d82367f6",
   "lastOpenFiles": [
+    "Books/Cracking the Coding Interview 189 Programming Questions and Solutions by Gayle Laakmann McDowell.pdf",
+    "Books/Cracking the Coding Interview - 4th Edition.pdf",
+    "Books/Operating System Concepts - 9th Edition.pdf",
+    "Books/Algorithm Design.pdf",
+    "Books/The Linux Programming Interface-Michael Kerrisk.pdf",
+    "Books",
+    "Languages/C/Untitled",
+    "Languages/C/C standard library.md",
+    "Pasted image 20241221142153.png",
+    "Languages/C",
+    "Languages",
+    "Development/You need to know for development.md",
     "LINUX/Linux Internals Advanced insights/Managing Kernel Modules.md",
     "LINUX/Linux device Driver LL cource/module commands.md",
     "LINUX/Linux Internals Advanced insights/Understanding kernel generic interfaces.md",
@@ -163,22 +175,13 @@
     "public/Pasted image 20241128112809.png",
     "Android/Kotlin/Untitled.md",
     "CYBERSECURITY/OSCP/OSCP Syllabus.md",
-    "Development/You need to know for development.md",
     "DSA/ALGORITHMS/Searching algorithms.md",
     "DSA/ALGORITHMS/Sorting Algorithms.md",
     "README.md",
     "DSA/Topics/Time Complexity.md",
     "public",
     "public/insertionsort.c",
-    "public/selectionSort.c",
-    "public/BinarySearch.c",
-    "public/linearsearch 1.c",
-    "public/linearsearch.c",
-    "DSA/Untitled",
-    "Android/Kotlin",
-    "Android",
     "LINUX/You need to know about linux.md",
-    "Development",
     "DSA/Resources/topics in GFG 160Days.md",
     "public/Pasted image 20241128112909.png",
     "public/Pasted image 20241128111101.png",
