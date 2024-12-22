@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2a8543a98763203",
+        "id": "0f2dd213ef625ecc",
         "type": "tabs",
         "children": [
           {
-            "id": "816a0aebaac50bf5",
+            "id": "9455d9e834b671c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 289.5
   },
   "right": {
     "id": "dc06e4f4d5650559",
@@ -156,15 +156,16 @@
   },
   "active": "878372f1d82367f6",
   "lastOpenFiles": [
-    "Books/Cracking the Coding Interview 189 Programming Questions and Solutions by Gayle Laakmann McDowell.pdf",
     "Books/Cracking the Coding Interview - 4th Edition.pdf",
-    "Books/Operating System Concepts - 9th Edition.pdf",
     "Books/Algorithm Design.pdf",
+    "Untitled.canvas",
+    "Books/Cracking the Coding Interview 189 Programming Questions and Solutions by Gayle Laakmann McDowell.pdf",
+    "Books/Operating System Concepts - 9th Edition.pdf",
     "Books/The Linux Programming Interface-Michael Kerrisk.pdf",
     "Books",
     "Languages/C/Untitled",
     "Languages/C/C standard library.md",
-    "Pasted image 20241221142153.png",
+    "public/Pasted image 20241221142153.png",
     "Languages/C",
     "Languages",
     "Development/You need to know for development.md",
@@ -180,14 +181,12 @@
     "README.md",
     "DSA/Topics/Time Complexity.md",
     "public",
-    "public/insertionsort.c",
     "LINUX/You need to know about linux.md",
     "DSA/Resources/topics in GFG 160Days.md",
     "public/Pasted image 20241128112909.png",
     "public/Pasted image 20241128111101.png",
     "public/Pasted image 20241128110147.png",
     "public/Pasted image 20241127181806.png",
-    "2024-11-27.md",
-    "Untitled.canvas"
+    "2024-11-27.md"
   ]
 }
