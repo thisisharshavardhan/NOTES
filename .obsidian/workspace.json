@@ -4,17 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0f2dd213ef625ecc",
+        "id": "3cb1da7ada3b1cff",
         "type": "tabs",
         "children": [
           {
-            "id": "9455d9e834b671c9",
+            "id": "fa54618570621fe6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": -50,
+                  "y": -40,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -154,12 +161,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "878372f1d82367f6",
+  "active": "fa54618570621fe6",
   "lastOpenFiles": [
+    "Books/The Millionaire Fastlane.pdf",
+    "Untitled 1.canvas",
+    "Books/Cracking the Coding Interview 189 Programming Questions and Solutions by Gayle Laakmann McDowell.pdf",
+    "DSA/CLS SYL.md",
+    "public/Pasted image 20241224154410.png",
+    "AIML/ML/machine learning life cycle.md",
+    "AIML/ML/Types of ml.md",
+    "AIML/ML",
+    "AIML",
     "Books/Cracking the Coding Interview - 4th Edition.pdf",
     "Books/Algorithm Design.pdf",
     "Untitled.canvas",
-    "Books/Cracking the Coding Interview 189 Programming Questions and Solutions by Gayle Laakmann McDowell.pdf",
     "Books/Operating System Concepts - 9th Edition.pdf",
     "Books/The Linux Programming Interface-Michael Kerrisk.pdf",
     "Books",
@@ -167,7 +182,6 @@
     "Languages/C/C standard library.md",
     "public/Pasted image 20241221142153.png",
     "Languages/C",
-    "Languages",
     "Development/You need to know for development.md",
     "LINUX/Linux Internals Advanced insights/Managing Kernel Modules.md",
     "LINUX/Linux device Driver LL cource/module commands.md",
@@ -180,7 +194,6 @@
     "DSA/ALGORITHMS/Sorting Algorithms.md",
     "README.md",
     "DSA/Topics/Time Complexity.md",
-    "public",
     "LINUX/You need to know about linux.md",
     "DSA/Resources/topics in GFG 160Days.md",
     "public/Pasted image 20241128112909.png",
