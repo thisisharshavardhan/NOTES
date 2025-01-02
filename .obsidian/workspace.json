@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3cb1da7ada3b1cff",
+        "id": "417c4f5ef4c1bf87",
         "type": "tabs",
         "children": [
           {
-            "id": "fa54618570621fe6",
+            "id": "6a4af172623eecdf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": -50,
-                  "y": -40,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -161,7 +154,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa54618570621fe6",
+  "active": "6a4af172623eecdf",
   "lastOpenFiles": [
     "Books/The Millionaire Fastlane.pdf",
     "Untitled 1.canvas",
@@ -181,7 +174,6 @@
     "Languages/C/Untitled",
     "Languages/C/C standard library.md",
     "public/Pasted image 20241221142153.png",
-    "Languages/C",
     "Development/You need to know for development.md",
     "LINUX/Linux Internals Advanced insights/Managing Kernel Modules.md",
     "LINUX/Linux device Driver LL cource/module commands.md",
